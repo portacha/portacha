@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @portacha. Im a Méxican Digital Artist, Developer and Cloud Architect.
 - 👀 I’m interested in new tech and innovation
-- 🌱 I’m currently learning Azure 
+- 🌱 I’m currently learning DevSecOps 
 - 💞️ I’m looking to collaborate on new innovation or science projects
 - 📫 How to reach me axel@noho.love
 
