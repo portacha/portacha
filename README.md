@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
-<h3 align="center">Im a Méxican Digital Artist, DevOps and Cloud Architect.</h3>
+<h3 align="center">Im a Digital Artist, DevOps and Cloud Architect.</h3>
 
 - 🔭 I’m currently working on [NTTData](https://www.nttdata.com/global/en/)
 
