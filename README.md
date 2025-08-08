@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">Im a Digital Artist, DevOps and Cloud Architect.</h3>
 
-- 🔭 I’m currently working on [NTTData](https://www.nttdata.com/global/en/)
+- 🔭 I’m currently working on [Grupo PROA](https://mx.linkedin.com/company/grupoproa)
 
 - 🌱 I’m currently learning **Security**
 
